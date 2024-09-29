@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various Open-Source Projects!
 - 📫 How to reach me: Email on my profile
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love doing leetcode ~
+- ⚡ Fun fact: I love doing leetcode ~ and I'm new to the world of GitHub, too. Looking forwar to connecting!
 
 <!---
 rickynguyxn/rickynguyxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
