@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rickynguyxn
+# 👋 Hi, I’m @rickynguyxn
 - 👀 I’m interested in Java & Python projects!
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on various Open-Source Projects!
